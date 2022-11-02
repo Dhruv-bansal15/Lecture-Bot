@@ -23,4 +23,4 @@ Once started, our bot will send you e-mail notifications along with the meet lin
 
 Identification of the cause of the problem can be seen from the problems in the process of obtaining lecture information that is still not organized in a single application system, so the design of the application is very necessary to maximize the process of obtaining lecture information.
 
-This is intended to facilitate the fulfilment of lecture information needs using e-mail reminder bot.
+This is intended to facilitate the fulfilment of lecture information needs using e-mail reminder bot .
