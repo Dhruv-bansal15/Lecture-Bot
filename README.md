@@ -14,6 +14,7 @@ This product is targeted to all such students and employees who need to attend c
 - Benefit people to join their online meets timely
 - Help in maintaining a log of their online classes
 - Reduce last moment stress to join meets by sending the meet link along with the reminder 10 minutes prior to the class
+- Keep a record of the attendance
 
 ## Why would you want to use our product?
 
